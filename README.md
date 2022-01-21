@@ -1,6 +1,6 @@
 <h1 align="center">Hey Guys!! Aryan Bhargav Here<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30x"></h1>
 
-- ☺️ Currently learning <br> Web Dev and Cloud Computing<img src="https://github.com/AryanBhargavv/WD_Image/blob/main/web-developer.jpg" min-width="200px" max-width="200px" width="250px" align="right">
+- ☺️ Currently learning <br> Web Dev and Cloud Computing<img src="https://github.com/AryanBhargavv/AryanBhargavv/blob/main/web-developer.jpg" min-width="200px" max-width="200px" width="250px" align="right">
 - 🤗 I’m looking to collaborate on small projects at present
 - 📬 Reach Me At 
 - https://www.linkedin.com/in/aryanbhargav/ <br> aryanbhargav6211@gmail.com
